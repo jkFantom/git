@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "authors": [
+    "jk_fantom <jk_fantom@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
